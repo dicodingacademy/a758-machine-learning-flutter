@@ -25,8 +25,8 @@ class ClassificationItem extends StatelessWidget {
   }
 }
 
-class ClassificatioinItemShimmer extends StatelessWidget {
-  const ClassificatioinItemShimmer({super.key});
+class ClassificationItemShimmer extends StatelessWidget {
+  const ClassificationItemShimmer({super.key});
 
   @override
   Widget build(BuildContext context) {
