@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class ClassificatioinItem extends StatelessWidget {
+class ClassificationItem extends StatelessWidget {
   final String item;
   final String value;
 
-  const ClassificatioinItem({
+  const ClassificationItem({
     super.key,
     required this.item,
     required this.value,
