@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class ClassificatioinItem extends StatelessWidget {
+class ClassificationItem extends StatelessWidget {
   final String item;
   final String value;
 
-  const ClassificatioinItem({
+  const ClassificationItem({
     super.key,
     required this.item,
     required this.value,
@@ -25,8 +25,8 @@ class ClassificatioinItem extends StatelessWidget {
   }
 }
 
-class ClassificatioinItemShimmer extends StatelessWidget {
-  const ClassificatioinItemShimmer({super.key});
+class ClassificationItemShimmer extends StatelessWidget {
+  const ClassificationItemShimmer({super.key});
 
   @override
   Widget build(BuildContext context) {

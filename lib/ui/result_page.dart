@@ -49,7 +49,7 @@ class _ResultBodyState extends State<_ResultBody> {
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 16.0),
           // todo-03: show the inference result (food name and the confidence score)
-          child: ClassificatioinItem(item: "Nasi Lemak", value: "89.58%"),
+          child: ClassificationItem(item: "Nasi Lemak", value: "89.58%"),
         ),
       ],
     );
