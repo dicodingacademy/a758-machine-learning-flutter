@@ -114,7 +114,7 @@ class _HomeBodyState extends State<_HomeBody> {
         SizedBox(height: 8),
         // todo-04-ui-03: consume the state using Consumer
         Consumer<LiteRtController>(
-          builder: (_, value, __) {
+          builder: (_, value, _) {
             final price = NumberFormat().format(value.number);
             return Text(
               "\$$price",
