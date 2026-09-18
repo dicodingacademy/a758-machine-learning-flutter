@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "513550843773",
+    "project_id": "fir-ml-project-dicoding",
+    "storage_bucket": "fir-ml-project-dicoding.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513550843773:android:033ecc78cfcb589ba5d614",
+        "android_client_info": {
+          "package_name": "com.dicoding.firebase_ml_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUuSvNKS5Kzx16LNJ0Kgvj2INjouM5jJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513550843773:android:7ebefdd0c8f67030a5d614",
+        "android_client_info": {
+          "package_name": "com.dicoding.flutter.u758.submission"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUuSvNKS5Kzx16LNJ0Kgvj2INjouM5jJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513550843773:android:1f9f626a0c559613a5d614",
+        "android_client_info": {
+          "package_name": "com.dicoding.house_price_predictor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUuSvNKS5Kzx16LNJ0Kgvj2INjouM5jJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

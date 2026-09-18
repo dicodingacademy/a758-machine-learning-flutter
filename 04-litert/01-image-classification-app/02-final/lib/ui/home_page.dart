@@ -74,7 +74,7 @@ class _HomeBodyState extends State<_HomeBody> {
           right: 0,
           left: 0,
           child: Consumer<ImageClassificationViewmodel>(
-            builder: (_, updateViewmodel, __) {
+            builder: (_, updateViewmodel, _) {
               final classifications = updateViewmodel.classifications.entries;
 
               if (classifications.isEmpty) {

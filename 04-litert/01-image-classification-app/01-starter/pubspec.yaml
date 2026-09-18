@@ -4,20 +4,20 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: ^3.6.1
+  sdk: ^3.13.1
 
 dependencies:
   flutter:
     sdk: flutter
 
-  provider: ^6.1.2
-  camera: 0.10.6
+  provider: ^6.1.5+1
+  camera: ^0.12.1
   image: ^4.5.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
 
 flutter:
   uses-material-design: true
